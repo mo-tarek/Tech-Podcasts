@@ -75,3 +75,60 @@
 74. API Security with Ahmed El-Emam 
 75. Layoffs 
 76. Fraud vs Investment 
+
+
+## More
+### Season 1 
+1. Working in a startup 
+2. Best Lab for Programming 
+3. Dunnig-Krugger Effect 
+4. PHP 
+5. JavaScript 
+6. Architecture
+7. Nothing 
+8. DevOps 
+9. Monolith 
+10. Microservices 
+11. University 
+### Season 2 
+1. Code Reviews 
+2. Testing & Automation Testing 
+3. Questions 1 
+4. Software Discussion
+5. Questions 2 
+6. Copyright 
+7. Domain-Dirven Design 
+8. Q & A 
+9. Discussion
+10. No Title 
+11. Spike 
+12. Immigration
+### Season 3 
+1. Architecture & Design 
+2. Questions 
+3. Stackoverflow survey 2020
+4. Junior Essential Skills 
+5. 5 to 9 programmers 
+6. Software Engineering vs Computer Engineering 
+7. Biased-Knowledge 
+8. The Story of magalix 
+9. Beackend engineering 
+10. Quibi 
+11. on-call 
+12. Retirement 
+13. Killer Bugs
+14. Over Engineering 
+15. Corona Birthday 
+### Season 4 
+1. Startups 
+2. The Cursed computer science iceberg 
+3. Standards in software industry 
+4. github copilot 
+5. Identity protocols with Tarek Dawood 
+6. DevOps career & Interviews 
+### Season 5 
+1. Hate bitcoin & Salary Negotiation
+2. Zero-Trust 
+3. Passwordless 
+4. DEBI 
+5. API Security 

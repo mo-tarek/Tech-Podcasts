@@ -132,3 +132,54 @@
 3. Passwordless 
 4. DEBI 
 5. API Security 
+
+### Weekly Hangout 
+1. Prototyping 
+2. Software Estimation
+3. The road to professional developer
+4. Cloud computing 
+5. Big data 
+6. Cross platform - app development, recruitment & job finding 
+7. Open Source 
+8. Massive online open courses 
+9. C# programming language 
+10. Javascript & node.js 
+11. Software Development Career Path & General Discussion about Deployment 
+12. Agile software developent 
+13. Career advancement 
+14. Software Security 
+15. Software Testing 
+16. Big Data Analytics 
+17. Object-oriented programming/design 
+18. Service-oriented Architecture 
+19. How to become a programmer 
+20. Startups 
+21. how to become a developer 
+22. algorithms 
+23. Object-Oriented design patterns 
+24. Windows Phone 8 Development 
+25. introduction to unit tests 
+26. Internationalization/Globalization software 
+27. Syndicate 
+28. Scala Programming Language 
+29. Web Front-end Optimization
+30. ASP.NET WebForms vs MVC 
+31. Concurrent Programming TPL 
+32. Virtualbox virtualization technology 
+33. HTML5
+34. General discussion about technology 
+35. software development events in 2013 
+36. is it time to move to linux 
+37. ml 
+38. microsoft openness 
+39. introduction to windows 8 development 
+40. BUILD 2014 Conference 
+41. Why make a side project 
+42. introduction to git source control 
+43. getting started with powershell 
+44. discussion 
+45. sw industry problems in egypt 
+46. building bots 
+47. 48. 46. building bots 
+48. contatiners internal 
+49. Gatsby - the best of the three worlds 

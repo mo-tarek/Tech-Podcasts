@@ -180,10 +180,29 @@
 44. discussion 
 45. sw industry problems in egypt 
 46. building bots 
-47. 48. 46. building bots 
+47. building bots 
 48. contatiners internal 
 49. Gatsby - the best of the three worlds 
 
 
 ###  AskDeveloper Podcast Facebook Page 
 1. Advanced Debugging 
+
+----
+
+# Essam Cafe 
+1. Managing Groups
+2. Career Advancement 
+3. Managing Project Development 
+4. Success Measure 
+5. Job Search 
+6. Freedom 
+7. Investor role 
+8. Loneliness 
+9. Privacy in speed dating 
+10. draft classes 
+11. Business, User & Code 
+12. Business adminstration
+13. Relationships*
+14. Shehata 
+15. Egypt is your mother
